@@ -1,4 +1,4 @@
-package ml.lakejason0.Multiverse;
+package ml.lakejason0.multiverse;
 
 import net.fabricmc.api.ModInitializer;
 

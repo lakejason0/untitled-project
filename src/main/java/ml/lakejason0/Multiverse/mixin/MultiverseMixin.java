@@ -1,4 +1,4 @@
-package ml.lakejason0.Multiverse.mixin;
+package ml.lakejason0.multiverse.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
